@@ -1,0 +1,17 @@
+,func,input,result
+1,Number Minus Ones,"(12,6)",7
+2,Number Minus Ones,"(16,4)",5
+3,Number Minus Ones,"(16,8)",92
+5,Number Minus Ones,"(24,4)",16
+6,Number Minus Ones,"(24,6)",136
+7,Number Minus Ones,"(32,4)",31
+9,Number Minus Ones,"(36,6)",496
+10,Number Minus Ones,"(40,4)",52
+12,Number Minus Ones,"(48,4)",162
+13,Number Minus Ones,"(48,6)",1184
+15,Number Minus Ones,"(56,4)",108
+18,Number Minus Ones,"(64,4)",143
+20,Number Minus Ones,"(72,4)",184
+22,Number Minus Ones,"(80,4)",482
+26,Number Minus Ones,"(88,4)",280
+27,Number Minus Ones,"(96,4)",726

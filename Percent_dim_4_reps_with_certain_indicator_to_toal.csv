@@ -1,0 +1,19 @@
+,func,input,result
+4,Ratio of plus ones to total,(16),6.351902173913043
+5,Ratio of minus ones to total,(16),0.16983695652173914
+8,Ratio of plus ones to total,(24),4.559748427672956
+9,Ratio of minus ones to total,(24),0.10482180293501049
+12,Ratio of plus ones to total,(32),2.3406661184210527
+13,Ratio of minus ones to total,(32),0.03186677631578948
+16,Ratio of plus ones to total,(40),1.726510067114094
+17,Ratio of minus ones to total,(40),0.02181208053691275
+20,Ratio of plus ones to total,(48),1.918200904392765
+21,Ratio of minus ones to total,(48),0.032703488372093026
+24,Ratio of plus ones to total,(56),1.0108309535418263
+25,Ratio of minus ones to total,(56),0.00783589886466532
+28,Ratio of plus ones to total,(64),0.8237355682930809
+29,Ratio of minus ones to total,(64),0.004557716628590078
+32,Ratio of plus ones to total,(72),0.9367443044418989
+33,Ratio of minus ones to total,(72),0.00487887658563489
+36,Ratio of plus ones to total,(80),0.7720941151919867
+37,Ratio of minus ones to total,(80),0.006286519198664442
